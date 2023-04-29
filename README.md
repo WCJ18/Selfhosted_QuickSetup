@@ -1,6 +1,12 @@
 # Selfhosted_QuickSetup
 Provides simple steps to setup a Ubuntu home server using Docker containers to host a static web page, network-wide addblocker (Pihole) and Next Cloud. Mainly for my own backups sake 
 
+
+blog post ideas
+-using nginx, cloudflare, bootstrap and chat gpt to build self hosted website
+-pihole ad tester
+-pihole docker image docker compose file
+
 This is a deep write up of my setup as I start learning.
 
 Installing Ubuntu 20.04 LTS
